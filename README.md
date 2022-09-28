@@ -4,3 +4,4 @@ This project generates a maze using Kruskal's algorithm, and solves it using the
 # Controls
 * D - Solve using Depth First Search
 * B - Solve using Breadth First Search
+* R - Regenerate a maze
